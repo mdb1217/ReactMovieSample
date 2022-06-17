@@ -5,3 +5,5 @@ ReactJS로 영화 웹 서비스 만들기
 
 ## 💚 스터디 정리
 [1일차 : #1.0 ~ #2.3](https://www.notion.so/1-4966cdb495074ff681a373ca6c0aa025)
+
+[2일차 : #2.4 ~ #3.9](https://www.notion.so/2-471507366cfd4f6b930dd5010c7fda81)
